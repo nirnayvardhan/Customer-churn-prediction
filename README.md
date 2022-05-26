@@ -2,7 +2,7 @@
 # Customer Churn Prediction 📌
 
 
-Customer churn has become a big issue because it costs a lot more to acquire a new customer than retaining existing ones. With the use of a customer churn prediction model possible churners in a bank can be identified, and as a result the companies can take some action to prevent them from leaving.
+Customer churn has become a big issue because it costs a lot more to acquire a new customer than retaining existing ones. With the use of a customer churn prediction model possible churners in an E-Commerce website/app can be identified, and as a result the companies can take some action to prevent them from leaving.
 
 ## Model used for Classifications
 - Logistics Regression
